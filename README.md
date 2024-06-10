@@ -105,7 +105,7 @@ Ethical Decision Making: Consider the ethical implications of their work and mak
 Transparent Communication: Communicate openly and transparently with stakeholders about ethical considerations and potential risks associated with software development.
 
 User-Centered Design: Design software with the needs, values, and rights of users in mind, ensuring inclusivity, accessibility, and respect for user privacy.
-
+.
 
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
